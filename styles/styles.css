@@ -1,0 +1,19 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.fonte {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.link {
+    font-size: 20px;
+    text-decoration: none;
+    color: brown;
+    padding: 30px;
+    background-color: bisque;
+}
